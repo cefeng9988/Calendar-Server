@@ -19,11 +19,10 @@ python3 app.py
 
 Check Server Activity
 ```python
-	psql cs411
-	SELECT * FROM invite;
-	\q   
-	```
-	//to exit
+psql cs411
+SELECT * FROM invite;
+\q   
+```
 
 ## Database migration folder commands
 
