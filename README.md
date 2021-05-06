@@ -1,7 +1,7 @@
 # CalendarApp (Team 20)
 
 ## App Repo
-This repository is coupled with the following repository for the front-end: https://github.com/CS411-Calendar/App
+This repository is coupled with the following repository for the front-end: https://github.com/cefeng9988/Calendar-Application
 
 ## Installation
 
