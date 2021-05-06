@@ -17,6 +17,11 @@ pip3 install -r requirements.txt
 python3 app.py
 ```
 
+Check Server Activity
+	psql cs411
+	SELECT * FROM invite;
+	\q                        //to exit
+
 ## Database migration folder commands
 
 Init migration folder
